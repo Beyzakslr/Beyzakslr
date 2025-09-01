@@ -1,5 +1,4 @@
 
-![MasterHead](https://i.pinimg.com/564x/0a/cb/b6/0acbb619105b9bfc95733eff1403ff2b.jpg)
 <h1 align="center">Hi 👋, I'm Beyza Kesler</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
